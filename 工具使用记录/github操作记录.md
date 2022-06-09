@@ -1,3 +1,11 @@
+<!--
+ * @Author: qsa 1711527198@qq.com
+ * @Date: 2022-06-09 17:06:03
+ * @LastEditors: qsa 1711527198@qq.com
+ * @LastEditTime: 2022-06-09 22:46:29
+ * @FilePath: \undefinede:\study record\工具使用记录\github操作记录.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 <!-- TOC -->
 
 - [1. 添加仓库和上传代码](#1-添加仓库和上传代码)
@@ -42,7 +50,7 @@
 4. 添加到暂存区里面去，如果后面接小数点“.”，意为添加文件夹下的所有文件：
     ``git add .``
 5. 把文件提交到仓库。引号内为提交说明：
-    ``git commit -m  '相关说明'``
+    ``git commit -m  "相关说明"``
 6. 将最新的修改推送到远程仓库：
     ``git push -u (地址的名字) master``
     
